@@ -4,6 +4,7 @@
 * Logistic Regression
 * Shallow Neural Networks 
 * Building Deep Neural Network
+* Image Classification with deepNN
 
 ## Course 2: Improving Deep Neural Networks
 * Week1: Basic concepts
@@ -17,6 +18,3 @@
 * Tensorflow 
     * Tensorflow Basics
 
-*
-
-*
