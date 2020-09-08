@@ -3,13 +3,15 @@ Series of courses on [Deep Learning Specialization by Coursera](https://www.cour
 
 ## Course 2: Improving Deep Neural Networks
 **1. Basic concepts**
-  - Initialization
-  - Regularization
-  - Gradient Checking
+  - Initialization: Zero initialization, random initialization, He-initialization
+  - Regularization: L1 and L2 regularization, Drop out Regularization
+  - Gradient Checking :  1-dimensional/N-dimensional gradient checking
 
 **2. Optimization methods**
-  - Optimization
+  - Stochastic Gradient Descent, Mini-Batch Gradient Descent
+  - Momentum and ADAM methods for optimization
 
 **3. Tensorflow**
-  - Introduction to Tensorflow
+  - Introduction to Tensorflow-1
+  - Implementation of Neural Network from scratch using Tensorflow-1
 
