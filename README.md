@@ -3,6 +3,8 @@ Series of courses on [Deep Learning Specialization by Coursera](https://www.cour
 
 ## Course1: Neural Networks and Deep Learning
 
+**1. Introduction to Neural Networks**
+
 **2. Neural Networks Basics**
   - Vectorization in python: Sigmoid, softmax activation function, L1 and L2 loss functions
   - Logistic Regression with a Neural Network mindset
