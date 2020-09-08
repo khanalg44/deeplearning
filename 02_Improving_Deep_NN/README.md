@@ -1,11 +1,15 @@
-# DeepLearning-2 Improving DeepNN - Coursera 
+# Deep Learning Specialization
+Series of courses on [Deep Learning Specialization by Coursera](https://www.coursera.org/specializations/deep-learning)[.](https://github.com/jiadaizhao/Advanced-Machine-Learning-Specialization)[.](https://github.com/Kulbear/deep-learning-coursera)[.](https://github.com/HeroKillerEver/coursera-deep-learning)[.](https://github.com/HeroKillerEver/coursera-deep-learning)
 
-## Week1: Basic concepts
-* 0101: Initialization
-* 0102: Regularization
-* 0103: Gradient Checking
+## Course 2: Improving Deep Neural Networks
+**1. Basic concepts**
+  - Initialization
+  - Regularization
+  - Gradient Checking
 
-## Week2:Optimization methods
-* 0201: optimization
-## Week3: Tensorflow Tutorials
-* 0301: tensorflow
+**2. Optimization methods**
+  - Optimization
+
+**3. Tensorflow**
+  - Introduction to Tensorflow
+
