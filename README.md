@@ -1,22 +1,31 @@
 # [Deep Learning Specialization]
-This is a [Coursera course](https://www.coursera.org/specializations/deep-learning)[.](https://github.com/jiadaizhao/Advanced-Machine-Learning-Specialization)[.](https://github.com/Kulbear/deep-learning-coursera)[.](https://github.com/HeroKillerEver/coursera-deep-learning)[.](https://github.com/HeroKillerEver/coursera-deep-learning)
+Series of courses on [Deep Learning Specialization by Coursera](https://www.coursera.org/specializations/deep-learning)[.](https://github.com/jiadaizhao/Advanced-Machine-Learning-Specialization)[.](https://github.com/Kulbear/deep-learning-coursera)[.](https://github.com/HeroKillerEver/coursera-deep-learning)[.](https://github.com/HeroKillerEver/coursera-deep-learning)
 
 ## Course1: Neural Networks and Deep Learning
-* Logistic Regression
-* Shallow Neural Networks 
-* Building Deep Neural Network
-* Image Classification with deepNN
+
+**2. Neural Networks Basics**
+  - Vectorization in python: Sigmoid, softmax activation function, L1 and L2 loss functions
+  - Logistic Regression with a Neural Network mindset
+  - Implementation of LR from scratch and use on cat dataset.
+
+**3. Shallow neural networks**
+  - General L layer neural network
+  - Classification with 1 hidden layer (Shallow Neural Networks)
+
+**4. Deep Neural Networks**
+  - Building Deep Neural Network from scratch
+  - Image (cat images) Classification with deepNN
 
 ## Course 2: Improving Deep Neural Networks
-* Week1: Basic concepts
-    * Initialization
-    * Regularization
-    * Gradient Checking
+**1. Basic concepts**
+  - Initialization
+  - Regularization
+  - Gradient Checking
 
-* Week2:Optimization methods
-    * Optimization
+**2. Optimization methods**
+  - Optimization
 
-* Tensorflow 
-    * Tensorflow Basics
+**3. Tensorflow**
+  - Introduction to Tensorflow
 
 
