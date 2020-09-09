@@ -9,5 +9,7 @@ Series of courses on [Deep Learning Specialization by Coursera](https://www.cour
   - Finger detection from using CNN
 
 **2. Deep convolutional models: case studies**
+
 **3. Object detection**
+
 **4. Special applications: Face recognition & Neural style transfer**
