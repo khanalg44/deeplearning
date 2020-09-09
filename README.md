@@ -34,6 +34,16 @@ Series of courses on [Deep Learning Specialization by Coursera](https://www.cour
   - Implementation of Neural Network from scratch using Tensorflow-1
 
 
+## Course4:  Convolutional Neural Networks
+
+**1. Foundations of Convolutional Neural Network**
+  - CNN from scratch
+  - Finger detection from using CNN
+
+**2. Deep convolutional models: case studies**
+**3. Object detection**
+**4. Special applications: Face recognition & Neural style transfer**
+
 ## Course 5: Sequence Models
   - Learn about recurrent neural networks. This type of model has been proven to perform extremely well on temporal data. It has several variants including LSTMs, GRUs and Bidirectional RNNs.
   - Natural Language Processing & Word Embeddings. Examples of applications are sentiment analysis, named entity recognition and machine translation.
